@@ -17,7 +17,7 @@ You need to have installed following softwares and libraries in your machine bef
 
 ```
 1. Python 3
-2. Google Colaboratory.
+2. Google Colaboratory
 ```
 
 ## Built With
