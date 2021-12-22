@@ -17,7 +17,7 @@ You need to have installed following softwares and libraries in your machine bef
 
 ```
 1. Python 3
-2. Anaconda: It will install ipython notebook and most of the libraries which are needed like NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, and Tensorflow.
+2. Google Colaboratory.
 ```
 
 ## Built With
